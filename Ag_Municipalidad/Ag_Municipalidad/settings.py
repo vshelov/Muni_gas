@@ -27,8 +27,8 @@ SECRET_KEY = 'django-insecure-hf(n$)l+!wgx3230d@%r&^xrg_i65)&m7%n21fa7i6i@qg#278
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['theme-thehun-responses-screw.trycloudflare.com', '127.0.0.1', 'localhost']
-CSRF_TRUSTED_ORIGINS = ['https://theme-thehun-responses-screw.trycloudflare.com']
+ALLOWED_HOSTS = []
+
 
 
 # Application definition
